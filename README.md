@@ -79,14 +79,12 @@ You should be able to finish this in 4-8 hours, I will give you 24 hours to do t
 
 Instructions
 ----------------
-- Create only one private repository in your own github account, add both the Backend (that's already provided) and Frontend (that you'll develop) in the same repo. (search for good practices of adding both backend and frontend in same repo).
-- Add **abdulhadiayaz** and **waqas-agr** as collaborators/watchers.
 - Push your code in small commits.
 - Try to add comments to your code.
 
 Submission
 ----------
-Once you're done with the task, just let us know.
+Fork this repo or create a new private repo and add **abdulhadiayaz** and **waqas-agr** as collaborators/watchers.
 
 Questions / Problems / Stuck?
 -----------------------------
