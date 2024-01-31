@@ -31,7 +31,7 @@ Once the dependancies are installed, you can start the Node application server b
 
 Once the server is running, you can access the start page (index.html) by opening your browser to `http://localhost:3000`
 
-You should setup your Frontend directory in client folder.
+You should setup your Frontend directory in client folder. Please remember that the above commands/installation of packages is for the provided code and you should run seperate npm commands for your frontend app that you're going to develop.
 
 REST API
 --------
@@ -79,6 +79,7 @@ You should be able to finish this in 4-8 hours, I will give you 24 hours to do t
 
 Instructions
 ----------------
+- You should create a client folder in provided codebase, and initialize your react app over there. 
 - Push your code in small commits.
 - Try to add comments to your code.
 
