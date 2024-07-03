@@ -79,14 +79,10 @@ You should be able to finish this in 4-8 hours, I will give you 24 hours to do t
 
 Instructions
 ----------------
-- You should create a client folder in provided codebase, and initialize your react app over there. 
 - Push your code in small commits.
 - Try to add comments to your code.
 
-Submission
-----------
-Fork this repo or create a new private repo and add **abdulhadiayaz** and **waqas-agr** as collaborators/watchers.
 
 Questions / Problems / Stuck?
 -----------------------------
-You can ping Waqas, Abdul Hadi or Faisal anytime.
+Open an issue if you face an problems.
