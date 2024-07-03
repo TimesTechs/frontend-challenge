@@ -1,7 +1,7 @@
 TimesTechs Frontend Code Challenge
 ==================================
 
-Hello! Your task is to create TimesStore; an online store where anyone can put up any random item up for sale and anyone else can buy it.
+Hello! Your task is to create MyStore; an online store where anyone can put up any random item up for sale and anyone else can buy it.
 
 Overview
 --------
